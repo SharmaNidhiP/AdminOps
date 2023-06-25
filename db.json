@@ -1,0 +1,190 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "C_Id": "1",
+      "C_Name": "nsharma18082001@gmail.com",
+      "App_Name": "",
+      "Serverinfo": "",
+      "Portinfo": "",
+      "BlackoutTime": ""
+    },
+    {
+      "id": 3,
+      "C_Id": "1",
+      "C_Name": "nsharma18082001@gmail.com",
+      "App_Name": "",
+      "Serverinfo": "",
+      "Portinfo": "",
+      "BlackoutTime": ""
+    },
+    {
+      "id": 4,
+      "C_Id": "1",
+      "C_Name": "nsharma18082001@gmail.com",
+      "App_Name": "",
+      "Serverinfo": "",
+      "Portinfo": "",
+      "BlackoutTime": ""
+    },
+    {
+      "id": 5,
+      "C_Id": "1",
+      "C_Name": "aaaa",
+      "App_Name": "",
+      "Serverinfo": "",
+      "Portinfo": "",
+      "BlackoutTime": ""
+    },
+    {
+      "id": 6,
+      "C_Id": "1",
+      "C_Name": "nsharma18082001@gmail.com",
+      "App_Name": "nsharma18082001@gmail.com",
+      "Serverinfo": "nsharma18082001@gmail.com",
+      "Portinfo": "nsharma18082001@gmail.com",
+      "BlackoutTime": "1"
+    },
+    {
+      "id": 7,
+      "C_Id": "1",
+      "C_Name": "nsharma18082001@gmail.com",
+      "App_Name": "nsharma18082001@gmail.com",
+      "Serverinfo": "nsharma18082001@gmail.com",
+      "Portinfo": "nsharma18082001@gmail.com",
+      "BlackoutTime": "11"
+    },
+    {
+      "id": 8,
+      "C_Id": "",
+      "C_Name": "hey",
+      "App_Name": "",
+      "Serverinfo": "",
+      "Portinfo": "",
+      "BlackoutTime": ""
+    },
+    {
+      "id": 9,
+      "C_Id": "101",
+      "C_Name": "Max",
+      "App_Name": "Canva",
+      "Serverinfo": "s1",
+      "Portinfo": "p1",
+      "BlackoutTime": "12"
+    },
+    {
+      "id": 10,
+      "C_Id": null,
+      "C_Name": "Max",
+      "App_Name": "Canva",
+      "Serverinfo": "s1",
+      "Portinfo": "p1",
+      "BlackoutTime": "13"
+    },
+    {
+      "id": 11,
+      "C_Id": null,
+      "C_Name": "nsharma18082001@gmail.com",
+      "App_Name": "aaaa",
+      "Serverinfo": "nsharma18082001@gmail.com",
+      "Portinfo": "nsharma18082001@gmail.com",
+      "BlackoutTime": "11"
+    },
+    {
+      "id": 12,
+      "C_Id": "5",
+      "C_Name": "nsharma18082001@gmail.com",
+      "App_Name": "nsharma18082001@gmail.com",
+      "Serverinfo": "nsharma18082001@gmail.com",
+      "Portinfo": "nsharma18082001@gmail.com",
+      "BlackoutTime": "5"
+    },
+    {
+      "id": 13,
+      "C_Id": "1",
+      "C_Name": "nsharma18082001@gmail.com",
+      "App_Name": "nsharma18082001@gmail.com",
+      "Serverinfo": "nsharma18082001@gmail.com",
+      "Portinfo": "nsharma18082001@gmail.com",
+      "BlackoutTime": "5"
+    },
+    {
+      "id": 14,
+      "C_Id": "7",
+      "C_Name": "nsharma18082001@gmail.com",
+      "App_Name": "nsharma18082001@gmail.com",
+      "Serverinfo": "nsharma18082001@gmail.com",
+      "Portinfo": "nsharma18082001@gmail.com",
+      "BlackoutTime": "77"
+    },
+    {
+      "id": 15,
+      "C_Id": "1",
+      "C_Name": "nsharma18082001@gmail.com",
+      "App_Name": "nsharma18082001@gmail.com",
+      "Serverinfo": "nsharma18082001@gmail.com",
+      "Portinfo": "nsharma18082001@gmail.com",
+      "BlackoutTime": "7"
+    },
+    {
+      "id": 16,
+      "C_Id": "5",
+      "C_Name": "aaa",
+      "App_Name": "aaaaaaa",
+      "Serverinfo": "aaaaa",
+      "Portinfo": "aaaaaaa",
+      "BlackoutTime": "2"
+    },
+    {
+      "id": 17,
+      "C_Id": "1",
+      "C_Name": "nsharma18082001@gmail.com",
+      "App_Name": "nsharma18082001@gmail.com",
+      "Serverinfo": "nsharma18082001@gmail.com",
+      "Portinfo": "nsharma18082001@gmail.com",
+      "BlackoutTime": "4"
+    },
+    {
+      "id": 18,
+      "C_Id": "3",
+      "C_Name": "nsharma18082001@gmail.com",
+      "App_Name": "nsharma18082001@gmail.com",
+      "Serverinfo": "nsharma18082001@gmail.com",
+      "Portinfo": "nsharma18082001@gmail.com",
+      "BlackoutTime": "3"
+    },
+    {
+      "id": 19,
+      "C_Id": "11",
+      "C_Name": "nsharma18082001@gmail.com",
+      "App_Name": "nsharma18082001@gmail.com",
+      "Serverinfo": "nsharma18082001@gmail.com",
+      "Portinfo": "nsharma18082001@gmail.com",
+      "BlackoutTime": "19"
+    },
+    {
+      "id": 20,
+      "C_Id": "23",
+      "C_Name": "nsharma18082001@gmail.com",
+      "App_Name": "nsharma18082001@gmail.com",
+      "Serverinfo": "nsharma18082001@gmail.com",
+      "Portinfo": "nsharma18082001@gmail.com",
+      "BlackoutTime": "34"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
